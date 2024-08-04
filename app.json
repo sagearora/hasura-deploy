@@ -22,7 +22,7 @@
   "stack": "container",
   "addons": [
     {
-      "plan": "heroku-postgresql:basic"
+      "plan": "heroku-postgresql:essential-0"
     }
   ]
 }
